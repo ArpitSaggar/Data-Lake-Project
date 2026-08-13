@@ -1,0 +1,19 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.csv
+*.parquet
+bronze/
+silver/
+gold/
+scratch/
+
+# Generated Data Lake files
+*.parquet
+*.csv
+*.crc
+bronze/
+silver/
+gold/

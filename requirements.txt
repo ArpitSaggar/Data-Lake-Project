@@ -1,0 +1,8 @@
+streamlit
+babel
+duckdb
+pandas
+plotly
+pyspark
+faker
+kafka-python
