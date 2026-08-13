@@ -5,6 +5,12 @@ A scalable end-to-end **Data Lake pipeline** for processing, transforming, and a
 The project follows a **Bronze → Silver → Gold** architecture, separating raw ingestion data from cleaned/processed data and analytics-ready datasets.
 
 ---
+# How the Local Website looks like : 
+<h2 align="center">Enterprise Clickstream Analytics Dashboard</h2>
+
+<p align="center">
+  <img src="assets/dashboard.png" alt="Enterprise Clickstream Analytics Dashboard" width="900">
+</p>
 
 ## Architecture
 
